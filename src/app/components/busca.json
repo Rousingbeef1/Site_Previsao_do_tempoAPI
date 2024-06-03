@@ -1,0 +1,23 @@
+[
+    {
+        "place_id": 5503774,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 297671,
+        "lat": "-25.7464681",
+        "lon": "-53.0554369",
+        "class": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4715861942447247,
+        "addresstype": "municipality",
+        "name": "Dois Vizinhos",
+        "display_name": "Dois Vizinhos, Região Geográfica Imediata de Dois Vizinhos, Região Geográfica Intermediária de Cascavel, Paraná, Região Sul, 85660-000, Brasil",
+        "boundingbox": [
+            "-25.8765613",
+            "-25.6077800",
+            "-53.2599994",
+            "-52.9518366"
+        ]
+    }
+]
